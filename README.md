@@ -1,14 +1,24 @@
-# Sprint-Review-Retrospective
-Sprint Review &amp; Retrospective
+# Agile Development Practices – Sprint Review & Retrospective
 
-How can I interpret the needs of users and use it as a program? How to create a "user story"?
+This project focuses on Agile development concepts, including sprint reviews, retrospectives, and user story planning.
 
- I interpret the needs of users by dividing them into smaller, clear requirements. Creating a user story helps because it focuses on what the user actually wants instead of only the technical details. Each story shows the value to users, which then guides development decisions and keeps the user at the center of the project.
+## Overview
+This project explores how Agile methodologies are used to manage software development. It highlights how breaking work into smaller tasks and using iterative processes improves project outcomes.
 
-How can I approach the development program? What processes do I hope to combine in my future development?
+## Key Concepts
+- User stories and requirement breakdown
+- Sprint planning and execution
+- Daily stand-ups and communication
+- Sprint reviews and retrospectives
 
- I approach program development by working in small pieces that can be managed and improved over time. Agile processes such as planning, running sprints, daily stand-ups, and retrospectives allow work to stay organized and adaptable. In the future, I hope to use the Agile method more because it lets me respond quickly and deliver value step by step instead of waiting until the very end.
+## What I Learned
+- How to translate user needs into actionable development tasks
+- The importance of iterative development and feedback
+- How Agile improves flexibility and team collaboration
+- The role of communication in successful software projects
 
-Being a good team member in the development of software means what?
+## Outcome
+This project strengthened my understanding of Agile methodologies and how they are applied in real-world software development environments.
 
-Being a good team member means a clear communication, sharing progress and supporting others when challenges occur. It also means the opening of suggestions and flexibility with changes. Strong team members help create an environment in which everyone can succeed and the project can move forward smoothly.
+## How to View
+See the included document for full details and reflections on Agile practices.
